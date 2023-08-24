@@ -1,0 +1,8 @@
+C:\Users\jinji\source\repos\WCFService\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\jinji\source\repos\WCFService\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\jinji\source\repos\WCFService\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\jinji\source\repos\WCFService\TestConsole\obj\Debug\TestConsole.csproj.AssemblyReference.cache
+C:\Users\jinji\source\repos\WCFService\TestConsole\obj\Debug\TestConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jinji\source\repos\WCFService\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\jinji\source\repos\WCFService\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\jinji\source\repos\WCFService\TestConsole\obj\Debug\TestConsole.pdb

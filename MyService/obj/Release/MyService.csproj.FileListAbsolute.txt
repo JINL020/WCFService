@@ -1,0 +1,7 @@
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Release\MyService.dll.config
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Release\MyService.dll
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Release\MyService.pdb
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Release\MyService.csproj.AssemblyReference.cache
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Release\MyService.csproj.CoreCompileInputs.cache
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Release\MyService.dll
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Release\MyService.pdb

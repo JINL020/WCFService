@@ -1,0 +1,8 @@
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Debug\MyService.dll.config
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Debug\MyService.dll
+C:\Users\jinji\source\repos\WCFService\MyService\bin\Debug\MyService.pdb
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Debug\MyService.csproj.AssemblyReference.cache
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Debug\MyService.csproj.CoreCompileInputs.cache
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Debug\MyService.dll
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Debug\MyService.pdb
+C:\Users\jinji\source\repos\WCFService\MyService\obj\Debug\MyService.csproj.SuggestedBindingRedirects.cache
